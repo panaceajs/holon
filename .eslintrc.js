@@ -1,4 +1,5 @@
 module.exports = {
+  "parser": "babel-eslint",
   "extends": [
     "airbnb",
     "prettier",
@@ -43,6 +44,7 @@ module.exports = {
     "import/no-extraneous-dependencies": "off",
     "import/extensions": "off",
     "import/no-unresolved": [2, { ignore: ['^shared'] }],
+    "import/prefer-default-export": 0,
     "react/forbid-prop-types": [
       2,
       {

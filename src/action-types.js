@@ -1,4 +1,0 @@
-export const MOUNT = '@HOLON/MOUNT';
-export const UNMOUNT = '@HOLON/UNMOUNT';
-export const REGISTER_SAGAS = '@HOLON/REGISTER_SAGAS';
-export const REGISTER_REDUCERS = '@HOLON/REGISTER_REDUCERS';

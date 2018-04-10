@@ -1,6 +1,5 @@
 .DS_Store
 node_modules
-package-lock.json
 index.cjs.js
 index.umd.js
 index.esm.js
@@ -8,3 +7,4 @@ index.js
 redux-injector
 hoc
 dist
+*.log
