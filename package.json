@@ -1,6 +1,6 @@
 {
   "name": "@panacea/holon",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "main": "index.js",
   "module": "index.esm.js",
   "browser": "index.umd.js",
