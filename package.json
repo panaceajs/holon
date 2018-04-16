@@ -1,6 +1,6 @@
 {
   "name": "@panacea/holon",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "main": "index.js",
   "module": "index.esm.js",
   "browser": "index.umd.js",
@@ -52,7 +52,9 @@
     "prepublishOnly": "npm run build"
   },
   "files": [
-    "hoc", "routes", "redux-injector"
+    "hoc",
+    "routes",
+    "redux-injector"
   ],
   "peerDependencies": {
     "react": "^16.2.0",
