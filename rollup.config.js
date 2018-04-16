@@ -8,8 +8,7 @@ const external = [
   'react-redux',
   'react-router-dom',
   'react-loadable',
-  'lodash.has',
-  'lodash.set',
+  'redux-actions',
   '@hocs/with-lifecycle'
 ];
 const babelPlugin = babel({
